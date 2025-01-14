@@ -1,5 +1,5 @@
 # Sony FixedMOD0
-
+![demo.png](demo.png)
 ## Overview
 **FixedMOD0** is a modification to Sony's 8x16 Fixed font, one of the default X11 fonts. The Latin (`8x16.pcf`) and Katakana (`8x16rk.pcf`) versions have been merged, and it has been re-encoded from `jisx0201.1972` to `ISO 10646-1`. Some characters have been added or modified. Please see the changelog for more details. A shell script (`demo.sh`) is included that shows all the characters.
 
@@ -23,21 +23,21 @@ It should appear on your system like so:
 ## Changelog
 
 ### BASIC LATIN
--"0" Shortened and struckthrough
--"7" Shortened and struckthrough
--"N" Modified
--"HYPEN-MINUS" Shortened
+- "0" Shortened and struckthrough
+- "7" Shortened and struckthrough
+- "N" Modified
+- "HYPEN-MINUS" Shortened
 
 ### GENERAL PUNCTUATION
--"EN/EM DASH" Added
+- "EN/EM DASH" Added
 
 ### MATHEMATICAL OPERATORS
--"GREATER/LESS-THAN OR EQUAL TO" Added
--"NOT EQUAL TO" Modified to match "="
+- "GREATER/LESS-THAN OR EQUAL TO" Added
+- "NOT EQUAL TO" Modified to match "="
 
 ### MISCELLANEOUS SYMBOLS
--"ORTHODOX CROSS" Added
+- "ORTHODOX CROSS" Added
 
 ### DINGBATS
--"LATIN CROSS" Added
--"SHADOWED WHITE LATIN CROSS" Added
+- "LATIN CROSS" Added
+- "SHADOWED WHITE LATIN CROSS" Added

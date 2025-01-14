@@ -5,7 +5,7 @@ FamilyName: FixedMOD0
 Weight: Medium
 Copyright: Public Domain (SONY original author)
 UComments: "2025-1-13: Created with FontForge (http://fontforge.org)"
-FontLog: "# CHANGELOG+AAoACgAA## GENERAL+AAoA--Merged +ACIA-8x16.pcf+ACIA (Latin-1 Supplement) and +ACIA-8x16rk.pcf+ACIA (Halfwidth Katakana)+AAoACgAA## BASIC LATIN+AAoA--+ACIA-0+ACIA Shortened and struckthrough+AAoA--+ACIA-7+ACIA Shortened and struckthrough+AAoA--+ACIA-N+ACIA Modified+AAoA--+ACIA-HYPEN-MINUS+ACIA Shortened+AAoACgAA## GENERAL PUNCTUATION+AAoA--+ACIA-EN/EM DASH+ACIA Added+AAoACgAA## MATHEMATICAL OPERATORS+AAoA--+ACIA-GREATER/LESS-THAN OR EQUAL TO+ACIA Added+AAoA--+ACIA-NOT EQUAL TO+ACIA Modified to match +ACIAPQAiAAoACgAA## MISCELLANEOUS SYMBOLS+AAoA--+ACIA-ORTHODOX CROSS+ACIA Added+AAoACgAA## DINGBATS+AAoA--+ACIA-LATIN CROSS+ACIA Added+AAoA--+ACIA-SHADOWED WHITE LATIN CROSS+ACIA Added"
+FontLog: "# CHANGELOG+AAoACgAA## GENERAL+AAoA-- Merged +ACIA-8x16.pcf+ACIA (Latin-1 Supplement) and +ACIA-8x16rk.pcf+ACIA (Halfwidth Katakana)+AAoACgAA## BASIC LATIN+AAoA-- +ACIA-0+ACIA Shortened and struckthrough+AAoA-- +ACIA-7+ACIA Shortened and struckthrough+AAoA-- +ACIA-N+ACIA Modified+AAoA-- +ACIA-HYPEN-MINUS+ACIA Shortened+AAoACgAA## GENERAL PUNCTUATION+AAoA-- +ACIA-EN/EM DASH+ACIA Added+AAoACgAA## MATHEMATICAL OPERATORS+AAoA-- +ACIA-GREATER/LESS-THAN OR EQUAL TO+ACIA Added+AAoA-- +ACIA-NOT EQUAL TO+ACIA Modified to match +ACIAPQAiAAoACgAA## MISCELLANEOUS SYMBOLS+AAoA-- +ACIA-ORTHODOX CROSS+ACIA Added+AAoACgAA## DINGBATS+AAoA-- +ACIA-LATIN CROSS+ACIA Added+AAoA-- +ACIA-SHADOWED WHITE LATIN CROSS+ACIA Added"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -2
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1736790816
-ModificationTime: 1736813940
+ModificationTime: 1736816881
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
