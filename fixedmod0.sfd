@@ -3,13 +3,13 @@ FontName: FixedMOD0Medium
 FullName: FixedMOD0-Medium
 FamilyName: FixedMOD0
 Weight: Medium
-Copyright: Public Domain (SONY original author)
-UComments: "2025-1-13: Created with FontForge (http://fontforge.org)"
+Copyright: Copyright (c) 1987, 1988 Sony Corp.
+UComments: "2025-1-13: Created by John (https://github.com/johnburris/) with FontForge (http://fontforge.org)"
 FontLog: "# CHANGELOG+AAoACgAA## GENERAL+AAoA-- Merged +ACIA-8x16.pcf+ACIA (Latin-1 Supplement) and +ACIA-8x16rk.pcf+ACIA (Halfwidth Katakana)+AAoACgAA## BASIC LATIN+AAoA-- +ACIA-0+ACIA Shortened and struckthrough+AAoA-- +ACIA-7+ACIA Shortened and struckthrough+AAoA-- +ACIA-N+ACIA Modified+AAoA-- +ACIA-HYPEN-MINUS+ACIA Shortened+AAoACgAA## GENERAL PUNCTUATION+AAoA-- +ACIA-EN/EM DASH+ACIA Added+AAoACgAA## MATHEMATICAL OPERATORS+AAoA-- +ACIA-GREATER/LESS-THAN OR EQUAL TO+ACIA Added+AAoA-- +ACIA-NOT EQUAL TO+ACIA Modified to match +ACIAPQAiAAoACgAA## MISCELLANEOUS SYMBOLS+AAoA-- +ACIA-ORTHODOX CROSS+ACIA Added+AAoACgAA## DINGBATS+AAoA-- +ACIA-LATIN CROSS+ACIA Added+AAoA-- +ACIA-SHADOWED WHITE LATIN CROSS+ACIA Added"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -2
-UnderlineWidth: 16
+UnderlinePosition: 0
+UnderlineWidth: 0
 Ascent: 14
 Descent: 2
 InvalidEm: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1736790816
-ModificationTime: 1736816881
+ModificationTime: 1736830837
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -55,7 +55,7 @@ WinInfo: 65016 28 19
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-TeXData: 1 0 0 524288 0 0 458752 1048576 65536 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+TeXData: 1 0 0 524288 0 0 917504 524288 65536 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65536 297
 
 StartChar: A

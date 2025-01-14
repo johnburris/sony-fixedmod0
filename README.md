@@ -15,10 +15,15 @@ sudo chown root:root /usr/share/fonts/local/*.bdf
 sudo mkfontdir /usr/share/fonts/local
 xset fp rehash
 ```
+Or make permanent by adding this to your `/etc/X11/xorg.conf`:
+```
+Section "Files"
+    FontPath       "/usr/share/fonts/local"
+EndSection
+```
 It should appear on your system like so:
-```
--sony-fixedmod0-medium-r-normal-*-16-*-*-*-*-*-iso10646-1
-```
+- XLFD: `-sony-fixedmod0-medium-r-normal--16-120-100-100-p-71-iso10646-1`
+- XFT: `FixedMOD0`
 
 ## Changelog
 
